@@ -1,0 +1,87 @@
+.container{
+    max-width: 990px;
+    margin: 0 auto;
+}
+.name_block{
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.name_section{
+    font-size: 34px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 40px;
+}
+.spn{
+    font-weight: 800;
+}
+.text_section_first{
+    font-weight: 500;
+    border-left: 3px solid red;
+    line-height: 25px;
+    max-width: 750px;
+    padding-left: 20px;
+    font-size: 18px;
+}
+.image_img_1{
+    max-width: 700px;
+}
+.image_img{
+    max-width: 300px;
+}
+.image_block{
+    text-align: center;
+}
+.text_section{
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.citata_section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+}
+.stih{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.text_footer{
+    text-align: center;
+    font-size: 14px;
+    color:rgb(50, 49, 49);
+}
+.header{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-right: 20px;
+}
+.spisok_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.elem_menu{
+    list-style: none;
+}
+.link_punkt{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    transform: 0.5s;
+}
+.link_punkt:hover{
+    border-bottom: 1px solid black;
+    transform: 0.5s;
+}
