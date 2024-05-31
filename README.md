@@ -1,1 +1,1 @@
-https://alex-vvhite.github.io/site/index.html
+https://alex-vvhite.github.io/site.github.io/index.html
